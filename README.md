@@ -46,7 +46,6 @@ print("Predicted Salary for the corresponding experience and education:", predic
 ![Screenshot 2023-12-25 153402](https://github.com/KeerthanaaSaravanan/EX-10_Multivariate-Linear-Regression/assets/145742596/9b43054a-c7ab-46b3-bd4c-bbc125c235c4)
 ![Screenshot 2023-12-25 153241](https://github.com/KeerthanaaSaravanan/EX-10_Multivariate-Linear-Regression/assets/145742596/e4fb5217-c4a2-4419-98e2-0a988f14dd18)
 ![Screenshot 2023-12-25 153256](https://github.com/KeerthanaaSaravanan/EX-10_Multivariate-Linear-Regression/assets/145742596/e8274234-77ef-4187-ba76-89af5712de7e)
-![Screenshot 2023-12-25 153402-1](https://github.com/KeerthanaaSaravanan/EX-10_Multivariate-Linear-Regression/assets/145742596/87571367-f934-487e-824e-afbde010e593)
 
 
 # Result
